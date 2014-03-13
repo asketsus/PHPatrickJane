@@ -11,7 +11,9 @@ Antonio J. González
 antonioj85 at gmail.com
 
 ##Usage
-`php main.php`
+```sh
+php main.php
+```
 
 This commands show the main menu. You can select one of the different options.
 
